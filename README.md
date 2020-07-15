@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hello, world 👋. I'm Agus Prasetiyo
+[![Website](https://img.shields.io/static/v1?label=%20&message=Website&logo=Github&style=flat&labelColor=grey)](https://prasetiyo.id)
+[![Telegram](https://img.shields.io/static/v1?label=%20&message=Telegram&logo=Telegram&style=flat&labelColor=grey)](https://t.me/aoktox)
+[![LinkedIn](https://img.shields.io/static/v1?label=%20&message=LinkedIn&logo=LinkedIn&style=flat&labelColor=grey)](https://www.linkedin.com/in/agusprasetiyo/)
+
+Site Reliability (DevOps) Engineer at Traveloka. ![tvlk](https://avatars2.githubusercontent.com/u/1683964?s=25)
+
+- **Cloud** : Amazon Web Services (EC2, ECS, RDS, Lambda, etc)
+- **Scripting** : python, bash
+- **Tools** : Terraform, ansible, vagrant, docker
 
 <!--
 **aoktox/aoktox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
